@@ -1,0 +1,38 @@
+_repo: The-Genetic-Effects-of-Radiation_55738
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Asimov, Isaac
+    birthdate: 1920
+    deathdate: 1992
+    gutenberg_agent_id: '35316'
+    url: http://www.gutenberg.org/2009/agents/35316
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Asimov
+  - agent_name: Dobzhansky, Theodosius
+    aliases:
+    - Dobrjansky, Theodosius
+    - Добржанский, Феодосий Григорьевич
+    - Dobzhansky, Feodosy Grigorevich
+    - Добжанский, Феодосий Грігорьевіч
+    birthdate: 1900
+    deathdate: 1975
+    gutenberg_agent_id: '48485'
+    url: http://www.gutenberg.org/2009/agents/48485
+    wikipedia: https://en.wikipedia.org/wiki/Theodosius_Dobzhansky
+description: ''
+gutenberg_issued: '2017-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55738'
+  lccn: '66062747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Understanding the atom
+subjects:
+- !lcc 'QH'
+- !lcsh 'Radiogenetics'
+- GITenberg
+title: The Genetic Effects of Radiation
+url: http://www.gutenberg.org/ebooks/55738
